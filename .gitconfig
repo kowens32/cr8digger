@@ -1,0 +1,10 @@
+[user]
+    name = Kimberly Owens
+    email = kowens4@elon.edu
+[core]
+    editor = code --wait
+[diff]
+    tool = default-difftool
+[difftool 'default-difftool']
+    cmd = code --wait --diff $LOCAL $REMOTE
+    
