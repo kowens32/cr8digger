@@ -1,4 +1,6 @@
+
 'use strict'
+
 console.log('here is a hidden message');
 
 let today = new Date();
