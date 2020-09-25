@@ -2,10 +2,25 @@
 
 body {
     font-family: helvetica;
+    background-image: url("Imgs/casset.jpg");
+ 
   }
   
-  ul {
-    font-family: monospace;
+  title {
     color:green;
+    
   }
 
+  h1 {
+    font-family: 'Yellowtail', cursive;
+    color: #c89666;
+    font-size: 145pt;
+    text-align: center;
+  }
+
+  h3 {
+    font-family: 'Open Sans', sans-serif;    
+    color: #e1b382;
+    font-size: 65pt;
+    text-align: center;
+  }
